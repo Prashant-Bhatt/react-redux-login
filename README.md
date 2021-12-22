@@ -2,6 +2,7 @@
 React Redux Login using redux toolkit 
 This is the basic login app created in react using redux toolkit.
 
+
 **Tech Stack -**
 1) React
 2) Redux toolkit - for creating store
@@ -17,6 +18,9 @@ This is the basic login app created in react using redux toolkit.
 1) Login
 2) Dashboard
 
+**Usage**
+1)  go to folder install dependency packages from package.json using  npm install 
+2) extract plugins folder within public/plugins
 
 ### `npm start`
 
