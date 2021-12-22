@@ -1,10 +1,15 @@
 # react-redux-login
 React Redux Login using redux toolkit 
 This is the basic login app created in react using redux toolkit.
+
 React + Redux
+
 React + Reduxtoolkit
+
 ReactRouter6
+
 React Admin 
+
 React Login App
 
 
